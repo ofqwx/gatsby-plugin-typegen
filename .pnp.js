@@ -3958,7 +3958,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@graphql-tools/merge", "virtual:afa91c6714c40005a7db7ab1820b7941d2cab0ee54342461651c99d23d0c70a2751103cfae4cfa87f27103d46a0d8325113b5180f6d278d18686aa05bdb0efba#npm:6.2.6"],
             ["@graphql-tools/utils", "virtual:afa91c6714c40005a7db7ab1820b7941d2cab0ee54342461651c99d23d0c70a2751103cfae4cfa87f27103d46a0d8325113b5180f6d278d18686aa05bdb0efba#npm:6.2.4"],
             ["@types/graphql", "npm:14.5.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"]
           ],
           "packagePeers": [
@@ -3984,7 +3984,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@graphql-codegen/visitor-plugin-common", "virtual:703c6ae97a85f4218071c68498263c5eaed4ad6b970310d5efe42f329de7d70590e741f4916afc80c7b02e9b840bd379e67d70ba98151484830bde7c1a0a585a#npm:1.18.0"],
             ["@types/graphql", "npm:14.5.0"],
             ["auto-bind", "npm:4.0.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"]
           ],
           "packagePeers": [
@@ -4011,7 +4011,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@graphql-codegen/visitor-plugin-common", "virtual:703c6ae97a85f4218071c68498263c5eaed4ad6b970310d5efe42f329de7d70590e741f4916afc80c7b02e9b840bd379e67d70ba98151484830bde7c1a0a585a#npm:1.18.0"],
             ["@types/graphql", "npm:14.5.0"],
             ["auto-bind", "npm:4.0.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"]
           ],
           "packagePeers": [
@@ -4039,7 +4039,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@graphql-tools/utils", "virtual:1dae41add377423e96da5af7fb4f34b4f598113cb69fe2c5e13ca37ea8df03cd9666616f4fad95f34a47a08eecf8a7541ef0e8cc41ba2a6b40188eaf4747f591#npm:7.2.3"],
             ["@types/graphql", "npm:14.5.0"],
             ["auto-bind", "npm:4.0.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"]
           ],
           "packagePeers": [
@@ -4066,7 +4066,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["camel-case", "npm:4.1.1"],
             ["common-tags", "npm:1.8.0"],
             ["constant-case", "npm:3.0.3"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["import-from", "npm:3.0.0"],
             ["lodash", "npm:4.17.20"],
             ["lower-case", "npm:2.0.1"],
@@ -4098,7 +4098,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@graphql-codegen/visitor-plugin-common", "virtual:703c6ae97a85f4218071c68498263c5eaed4ad6b970310d5efe42f329de7d70590e741f4916afc80c7b02e9b840bd379e67d70ba98151484830bde7c1a0a585a#npm:1.18.0"],
             ["@types/graphql", "npm:14.5.0"],
             ["auto-bind", "npm:4.0.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"]
           ],
           "packagePeers": [
@@ -4125,7 +4125,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@graphql-codegen/visitor-plugin-common", "virtual:703c6ae97a85f4218071c68498263c5eaed4ad6b970310d5efe42f329de7d70590e741f4916afc80c7b02e9b840bd379e67d70ba98151484830bde7c1a0a585a#npm:1.18.0"],
             ["@types/graphql", "npm:14.5.0"],
             ["auto-bind", "npm:4.0.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"]
           ],
           "packagePeers": [
@@ -4153,7 +4153,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@graphql-tools/utils", "virtual:1dae41add377423e96da5af7fb4f34b4f598113cb69fe2c5e13ca37ea8df03cd9666616f4fad95f34a47a08eecf8a7541ef0e8cc41ba2a6b40188eaf4747f591#npm:7.2.3"],
             ["@types/graphql", "npm:14.5.0"],
             ["auto-bind", "npm:4.0.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"]
           ],
           "packagePeers": [
@@ -4182,7 +4182,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["array.prototype.flatmap", "npm:1.2.4"],
             ["auto-bind", "npm:4.0.0"],
             ["dependency-graph", "npm:0.9.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["graphql-tag", "virtual:a5018fa34d3fe69389a3cf416f42dc195ec33745266cf864bbf90056d41f5c77d6a9e1f5be2a97232ad590651bf79653a0b96697482436633543e8e97bd8e745#npm:2.11.0"],
             ["parse-filepath", "npm:1.0.2"],
             ["pascal-case", "npm:3.1.1"],
@@ -4292,7 +4292,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/types", "npm:7.12.1"],
             ["@graphql-tools/utils", "virtual:1dae41add377423e96da5af7fb4f34b4f598113cb69fe2c5e13ca37ea8df03cd9666616f4fad95f34a47a08eecf8a7541ef0e8cc41ba2a6b40188eaf4747f591#npm:7.2.3"],
             ["@types/graphql", "npm:14.5.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"],
             ["vue-template-compiler", "npm:2.6.12"]
           ],
@@ -4413,7 +4413,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@graphql-tools/schema", "virtual:43c4511203b061603227ad1fb46aa997b75be7e2806954e62e8b7af9768cea94fa27aadb8203e6b280965003b6b9c97e5da98b9c66c43d982ff7f60e2a77e519#npm:7.1.2"],
             ["@graphql-tools/utils", "virtual:1dae41add377423e96da5af7fb4f34b4f598113cb69fe2c5e13ca37ea8df03cd9666616f4fad95f34a47a08eecf8a7541ef0e8cc41ba2a6b40188eaf4747f591#npm:7.2.3"],
             ["@types/graphql", "npm:14.5.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"]
           ],
           "packagePeers": [
@@ -4436,7 +4436,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@graphql-tools/optimize", "virtual:a5018fa34d3fe69389a3cf416f42dc195ec33745266cf864bbf90056d41f5c77d6a9e1f5be2a97232ad590651bf79653a0b96697482436633543e8e97bd8e745#npm:1.0.1"],
             ["@types/graphql", "npm:14.5.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"]
           ],
           "packagePeers": [
@@ -4460,7 +4460,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@graphql-tools/relay-operation-optimizer", "virtual:a5018fa34d3fe69389a3cf416f42dc195ec33745266cf864bbf90056d41f5c77d6a9e1f5be2a97232ad590651bf79653a0b96697482436633543e8e97bd8e745#npm:6.3.0"],
             ["@graphql-tools/utils", "virtual:1dae41add377423e96da5af7fb4f34b4f598113cb69fe2c5e13ca37ea8df03cd9666616f4fad95f34a47a08eecf8a7541ef0e8cc41ba2a6b40188eaf4747f591#npm:7.2.3"],
             ["@types/graphql", "npm:14.5.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["relay-compiler", "virtual:8fc93e4a25fa0e46708db8427bec7ffbd4262533270d8711b28e5f92ecce68c77249a84cda657c30e6c07a87f2e278f6da82fb8c4ad050a58606af04babdf8b5#npm:10.1.0"],
             ["tslib", "npm:2.0.1"]
           ],
@@ -4485,7 +4485,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@graphql-tools/schema", "virtual:43c4511203b061603227ad1fb46aa997b75be7e2806954e62e8b7af9768cea94fa27aadb8203e6b280965003b6b9c97e5da98b9c66c43d982ff7f60e2a77e519#npm:7.1.2"],
             ["@graphql-tools/utils", "virtual:1dae41add377423e96da5af7fb4f34b4f598113cb69fe2c5e13ca37ea8df03cd9666616f4fad95f34a47a08eecf8a7541ef0e8cc41ba2a6b40188eaf4747f591#npm:7.2.3"],
             ["@types/graphql", "npm:14.5.0"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"]
           ],
           "packagePeers": [
@@ -4571,7 +4571,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@ardatan/aggregate-error", "npm:0.0.6"],
             ["@types/graphql", "npm:14.5.0"],
             ["camel-case", "npm:4.1.2"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"]
           ],
           "packagePeers": [
@@ -4619,7 +4619,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@ardatan/aggregate-error", "npm:0.0.6"],
             ["@types/graphql", "npm:14.5.0"],
             ["camel-case", "npm:4.1.1"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["tslib", "npm:2.0.1"]
           ],
           "packagePeers": [
@@ -13394,7 +13394,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["common-tags", "npm:1.8.0"],
             ["eslint", "npm:7.17.0"],
             ["gatsby", "virtual:1dae41add377423e96da5af7fb4f34b4f598113cb69fe2c5e13ca37ea8df03cd9666616f4fad95f34a47a08eecf8a7541ef0e8cc41ba2a6b40188eaf4747f591#npm:2.29.3"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["jest", "npm:26.6.3"],
             ["redux", "npm:4.0.5"],
             ["typescript", "patch:typescript@npm%3A4.1.3#builtin<compat/typescript>::version=4.1.3&hash=cc6730"],
@@ -13931,13 +13931,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["graphql", "npm:15.3.0"]
           ],
           "linkType": "HARD",
-        }],
-        ["npm:15.4.0", {
-          "packageLocation": "./.yarn/cache/graphql-npm-15.4.0-ffa0f9cd71-1a307dcfe2.zip/node_modules/graphql/",
-          "packageDependencies": [
-            ["graphql", "npm:15.4.0"]
-          ],
-          "linkType": "HARD",
         }]
       ]],
       ["graphql-compose", [
@@ -14067,7 +14060,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["graphql-tag", "virtual:a5018fa34d3fe69389a3cf416f42dc195ec33745266cf864bbf90056d41f5c77d6a9e1f5be2a97232ad590651bf79653a0b96697482436633543e8e97bd8e745#npm:2.11.0"],
             ["@types/graphql", "npm:14.5.0"],
-            ["graphql", "npm:15.4.0"]
+            ["graphql", "npm:14.7.0"]
           ],
           "packagePeers": [
             "@types/graphql",
@@ -20898,7 +20891,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fb-watchman", "npm:2.0.1"],
             ["fbjs", "npm:3.0.0"],
             ["glob", "npm:7.1.6"],
-            ["graphql", "npm:15.4.0"],
+            ["graphql", "npm:14.7.0"],
             ["immutable", "npm:3.7.6"],
             ["nullthrows", "npm:1.1.1"],
             ["relay-runtime", "npm:10.1.0"],
