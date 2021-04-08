@@ -1,4 +1,8 @@
-# gatsby-plugin-typegen
+# gatsby-plugin-typegen forked from https://github.com/cometkim/gatsby-plugin-typegen
+
+Two modifications have been made while official V3 is in progress:
+- For flow language JSON scalar is now `any` instead of `never`.
+- Removed `$` from types prefix for flow language since it was causing some wrong types names.
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)

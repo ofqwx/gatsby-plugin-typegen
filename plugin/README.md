@@ -1,4 +1,10 @@
-# gatsby-plugin-typegen
+# gatsby-plugin-typegen forked from https://github.com/cometkim/gatsby-plugin-typegen
+
+Modifications that have been made while official V3 is in progress:
+- For flow language JSON scalar is now `any` instead of `never`.
+- Updated @graphql-codegen/flow to v1.18.5 to fix issues with missing type prefixes inside arrays.
+- Removed `$` from types prefix for flow language.
+
 [![Package version](https://img.shields.io/npm/v/gatsby-plugin-typegen)](https://www.npmjs.com/package/gatsby-plugin-typegen)
 [![Npm downloads](https://img.shields.io/npm/dw/gatsby-plugin-typegen)](https://www.npmjs.com/package/gatsby-plugin-typegen)
 [![Actions Status](https://github.com/cometkim/gatsby-plugin-typegen/workflows/CI/badge.svg)](https://github.com/cometkim/gatsby-plugin-typegen/actions)
@@ -37,7 +43,7 @@ yarn add gatsby-plugin-typegen
 
 ```js
 // In your gatsby-config.js
-plugins: [`gatsby-plugin-typegen`]
+plugins: [`@ofqwx/gatsby-plugin-typegen`]
 ```
 
 ### Example of type-safe usage
@@ -48,12 +54,12 @@ import type { PluginOptions as TypegenPluginOptions } from 'gatsby-plugin-typege
 type Plugin = (
   | string
   | { resolve: string, options: object }
-  | { resolve: `gatsby-plugin-typegen`, options: TypegenPluginOptions }
+  | { resolve: `@ofqwx/gatsby-plugin-typegen`, options: TypegenPluginOptions }
 );
 
 const plugins: Plugin[] = [
   {
-    resolve: `gatsby-plugin-typegen`,
+    resolve: `@ofqwx/gatsby-plugin-typegen`,
     options: {
       // ... customize options here
     },
